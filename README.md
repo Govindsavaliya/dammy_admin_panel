@@ -1,1 +1,1 @@
-# dammy_admin_panel
+# lifeLikeEarth_server
